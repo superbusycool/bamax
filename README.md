@@ -1,0 +1,2 @@
+# bamax
+for a biginner
